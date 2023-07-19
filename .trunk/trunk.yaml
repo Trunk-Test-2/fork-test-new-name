@@ -1,6 +1,6 @@
 version: 0.1
 cli:
-  version: 1.12.1-beta.11
+  version: 1.12.3-beta.1
 api:
   address: api.trunk-staging.io:8443
 plugins:
